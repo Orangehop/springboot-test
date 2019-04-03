@@ -1,4 +1,4 @@
-package com.example.message;
+package com.chapter2.helloworld.message;
 
 import java.util.Properties;
 public class MessageSupportFactory {

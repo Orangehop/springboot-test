@@ -1,4 +1,4 @@
-package com.example.message;
+package com.chapter2.helloworld.message;
 
 public interface MessageRenderer {
     // Render message
