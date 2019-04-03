@@ -1,4 +1,4 @@
-package com.example.message;
+package com.chapter2.helloworld.message;
 
 public class StandardOutMessageRenderer implements MessageRenderer {
     private MessageProvider messageProvider;

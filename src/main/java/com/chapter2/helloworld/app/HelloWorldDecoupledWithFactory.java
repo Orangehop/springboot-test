@@ -1,8 +1,8 @@
-package com.example.helloworld.demo;
+package com.chapter2.helloworld.app;
 
-import com.example.message.MessageProvider;
-import com.example.message.MessageRenderer;
-import com.example.message.MessageSupportFactory;
+import com.chapter2.helloworld.message.MessageProvider;
+import com.chapter2.helloworld.message.MessageRenderer;
+import com.chapter2.helloworld.message.MessageSupportFactory;
 
 public class HelloWorldDecoupledWithFactory {
     public static void main(String... args) {

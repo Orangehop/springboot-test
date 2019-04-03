@@ -1,9 +1,9 @@
-package com.example.helloworld.configuration;
+package com.chapter2.helloworld.configuration;
 
-import com.example.message.HelloWorldMessageProvider;
-import com.example.message.MessageProvider;
-import com.example.message.MessageRenderer;
-import com.example.message.StandardOutMessageRenderer;
+import com.chapter2.helloworld.message.HelloWorldMessageProvider;
+import com.chapter2.helloworld.message.MessageProvider;
+import com.chapter2.helloworld.message.MessageRenderer;
+import com.chapter2.helloworld.message.StandardOutMessageRenderer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

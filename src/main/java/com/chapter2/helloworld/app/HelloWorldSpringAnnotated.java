@@ -1,7 +1,7 @@
-package com.example.helloworld.demo;
+package com.chapter2.helloworld.app;
 
-import com.example.message.MessageRenderer;
-import com.example.helloworld.configuration.HelloWorldConfiguration;
+import com.chapter2.helloworld.message.MessageRenderer;
+import com.chapter2.helloworld.configuration.HelloWorldConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
